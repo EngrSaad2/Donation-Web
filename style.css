@@ -134,6 +134,23 @@ body {
 
 }
 
+.current-sate {
+    display: flex;
+    margin-bottom: 50px;
+    justify-content: space-between;
+    margin-bottom: 50px;
+    padding: 40px;
+    background-color: orange;
+}
+
+.current {
+    font-size: 25px;
+    color: white;
+    text-align: center;
+    margin-left: 5%;
+
+}
+
 .habitat {
     display: flex;
     margin-bottom: 50px;
