@@ -43,6 +43,15 @@ body {
 
 }
 
+#btn-banner {
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 30px;
+    border-radius: 5px;
+    background: red;
+    color: white;
+
+}
 
 .donate-today {
     text-align: center;
@@ -90,7 +99,7 @@ body {
     padding: 10px 10px;
 }
 
-#donate-btn {
+.donate-btn {
 
     text-decoration: none;
     background-color: orange;
